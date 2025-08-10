@@ -1,0 +1,1 @@
+# Capture-and-Storing-Azure-Logs-in-a-Secure-Storage-Account
