@@ -50,7 +50,7 @@ This project demonstrates how to collect, centralize, and securely store Azure a
 
 <h2>Documentation Link:</h2>
 
-(https://brief-foam-edd.notion.site/Vulnerability-Management-Project-23c8ff75bed380afb926e2690c04a23c?source=copy_link)
+(https://brief-foam-edd.notion.site/Capture-and-Store-Azure-Logs-in-a-Storage-Account-1da8ff75bed3801b85d5de6ed9339c27?source=copy_link)
 
 
 <!--
